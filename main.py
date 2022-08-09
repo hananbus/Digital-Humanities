@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import json
 from selenium import webdriver
 from time import sleep
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 
